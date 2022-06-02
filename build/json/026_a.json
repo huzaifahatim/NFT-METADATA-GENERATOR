@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #026_a",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/026_a.png",
+  "edition": null,
+  "attributes": [
+    [
+      {
+        "trait_type": "average color",
+        "value": "rgb(59,39,32)"
+      },
+      {
+        "trait_type": "What is this?",
+        "value": "NOT a FACE"
+      },
+      {
+        "trait_type": "date",
+        "value": 1884
+      }
+    ]
+  ],
+  "compiler": "HashLips Art Engine"
+}
