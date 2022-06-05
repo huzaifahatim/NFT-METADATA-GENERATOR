@@ -1,13 +1,13 @@
 {
-  "name": "FACES #016_a",
+  "name": "FACES #002_b",
   "description": "Different Faces",
-  "image": "ipfs://NewUriToReplace/016_a.png",
+  "image": "ipfs://NewUriToReplace/002_b.png",
   "edition": null,
   "attributes": [
     [
       {
         "trait_type": "average color",
-        "value": "rgb(60,40,32)"
+        "value": "rgb(56,37,30)"
       },
       {
         "trait_type": "What is this?",
@@ -15,7 +15,7 @@
       },
       {
         "trait_type": "date",
-        "value": 1767
+        "value": 1683
       }
     ]
   ],

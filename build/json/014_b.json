@@ -1,6 +1,6 @@
 {
-  "name": "Your Collection #014_b",
-  "description": "Remember to replace this description",
+  "name": "FACES #014_b",
+  "description": "Different Faces",
   "image": "ipfs://NewUriToReplace/014_b.png",
   "edition": null,
   "attributes": [
@@ -15,7 +15,7 @@
       },
       {
         "trait_type": "date",
-        "value": 1877
+        "value": 1700
       }
     ]
   ],
